@@ -2,7 +2,7 @@
 
 Vehicle counting in a conjusted traffic road where background subtraction gives lower performance.
 
-
+![SCREENSHOT](/Screenshot.png)
 ps: The car with-1.5Km/h is actually going in reverse :D
 
 This project use YOLOv3 for Vehicle detection and SORT(Simple Online and Realtime Tracker) for vehicle tracking
@@ -19,3 +19,5 @@ This project use YOLOv3 for Vehicle detection and SORT(Simple Online and Realtim
 
 
 [YOLO](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
+
+[SORT Algorithm](https://github.com/abewley/sort)
